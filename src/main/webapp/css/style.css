@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.suscribir
+{
+	background: url(img/wave.png);
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+}
